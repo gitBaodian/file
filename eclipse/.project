@@ -3,7 +3,7 @@
 	<name>file</name>
 	<comment></comment>
 	<projects>
-		<project>mis</project>
+		<project>file</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
